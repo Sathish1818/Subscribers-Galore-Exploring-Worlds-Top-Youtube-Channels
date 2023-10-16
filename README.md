@@ -1,7 +1,7 @@
-Tableau Dash bord link 1
+Tableau Dash board link 1
 https://public.tableau.com/app/profile/madhusha.r./viz/Dashboard1_16972943677160/Dashboard1?publish=yes
 
-Tableau Dash bord link 2
+Tableau Dash board link 2
 https://public.tableau.com/app/profile/madhusha.r./viz/Dashboard2_16972942662850/Dashboard2?publish=yes
 
 Tableau Dash board link 3
