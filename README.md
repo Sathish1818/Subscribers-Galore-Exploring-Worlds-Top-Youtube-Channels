@@ -7,7 +7,7 @@ https://public.tableau.com/app/profile/madhusha.r./viz/Dashboard2_16972942662850
 Tableau Dash board link 3
 https://public.tableau.com/app/profile/madhusha.r./viz/Dashboard3_16972944604960/Dashboard3?publish=yes
 
-Tableau Dash bird link 4
+Tableau Dash board link 4
 https://public.tableau.com/app/profile/madhusha.r./viz/Dashboard4_16972945588530/Dashboard4?publish=yes
 
 Tableau story link
